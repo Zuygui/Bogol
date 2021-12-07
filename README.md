@@ -4,7 +4,7 @@
 
 <em><h5 align="center">(formerly Utility CLI)</h5></em>
 
-[<p align="center"><img src="https://img.shields.io/github/v/release/Zuygui/Bogol?include_prereleases&style=for-the-badge" alt="version">](https://github.com/Zuygui/Bogol/realeases) [<img src="https://img.shields.io/npm/dt/bogol?style=for-the-badge" alt="downloads">](https://npmjs.org/packages/bogol) <img src="https://forthebadge.com/images/badges/winter-is-coming.svg"  height="28px" alt="stark"></p>
+[<p align="center"><img src="https://img.shields.io/github/v/release/Zuygui/Bogol?include_prereleases&style=for-the-badge" alt="version">](https://github.com/Zuygui/Bogol/realeases) [<img src="https://img.shields.io/npm/dt/bogol?style=for-the-badge" alt="downloads">](https://npmjs.org/package/bogol) <img src="https://forthebadge.com/images/badges/winter-is-coming.svg"  height="28px" alt="stark"></p>
 
 <p align="center">Use the CMD easy</p>
 
@@ -21,14 +21,14 @@ This is not an exhaustive list. Download and install the cli to gauge all it can
 
 ## Downloads
 
-You can download from [NPM package](https://npmjs.org/packages/bogol)
+You can download from [NPM package](https://npmjs.org/package/bogol)
 
 #### Latest Release
 
-[![](https://img.shields.io/github/release/Zuygui/Bogol.svg?style=flat-square)](https://github.com/dscalzi/HeliosLauncher/releases/latest)
+[![](https://img.shields.io/github/release/Zuygui/Bogol.svg?style=flat-square)](https://github.com/Zuygui/bogol/releases/latest)
 
 #### Latest Pre-Release
-[![](https://img.shields.io/github/release/Zuygui/bogol/all.svg?style=flat-square)](https://github.com/dscalzi/HeliosLauncher/releases)
+[![](https://img.shields.io/github/release/Zuygui/bogol/all.svg?style=flat-square)](https://github.com/Zuygui/bogol/releases)
 
 **Supported Platforms**
 
@@ -130,4 +130,4 @@ Please give credit to the original author and provide a link to the original sou
 [nodejs]: https://nodejs.org/en/ 'Node.js'
 [vscode]: https://code.visualstudio.com/ 'Visual Studio Code'
 [wiki]: https://github.com/Zuygui/bogol/wiki 'wiki'
-[npmjs]: https://npmjs.org/packages/bogol 'bogol'
+[bogol]: https://npmjs.org/package/bogol 'bogol'
