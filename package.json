@@ -1,0 +1,29 @@
+{
+  "name": "bogol",
+  "version": "1.0.1",
+  "description": "🚀The best CLI for everyday life for everyone.",
+  "main": "bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "bogol": "./bin/index.js"
+  },
+  "author": "Zuygui",
+  "license": "MIT",
+  "dependencies": {
+    "@vitalets/google-translate-api": "^7.0.0",
+    "boxen": "^4.2.0",
+    "chalk": "^4.1.2",
+    "commander": "^8.3.0",
+    "conf": "^10.1.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zuygui/bogol.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/",
+    "access": "public"
+  }
+}

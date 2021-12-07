@@ -1,0 +1,14 @@
+name: Test-Install-GH-Package
+on:
+  push
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - run: |
+        npm config set //npm.pkg.github.com/:_authToken $TOKEN
+        npm install
+        npm run speak # Runs a script that calls our "mean" fn
+      env:
+        TOKEN: ${{secrets.READ_PACKAGES}}
