@@ -22,8 +22,5 @@
     "type": "git",
     "url": "git+https://github.com/Zuygui/bogol.git"
   },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/Zuygui",
-    "access": "public"
-  }
+  "homepage": "https://npmjs.org/packages/bogol"
 }
