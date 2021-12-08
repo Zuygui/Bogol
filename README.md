@@ -4,7 +4,7 @@
 
 <em><h5 align="center">(formerly Utility CLI)</h5></em>
 
-[<p align="center"><img src="https://img.shields.io/github/v/release/Zuygui/Bogol?include_prereleases&style=for-the-badge" alt="version">](https://github.com/Zuygui/Bogol/realeases) [<img src="https://img.shields.io/npm/dt/bogol?style=for-the-badge" alt="downloads">](https://npmjs.org/package/bogol) <img src="https://forthebadge.com/images/badges/winter-is-coming.svg"  height="28px" alt="stark"></p>
+[<p align="center"><img src="https://img.shields.io/github/v/release/Zuygui/Bogol?include_prereleases&style=for-the-badge" alt="version">](https://github.com/Zuygui/Bogol/releases) [<img src="https://img.shields.io/npm/dt/bogol?style=for-the-badge" alt="downloads">](https://npmjs.org/package/bogol) <img src="https://forthebadge.com/images/badges/winter-is-coming.svg"  height="28px" alt="stark"></p>
 
 <p align="center">Use the CMD easy</p>
 
