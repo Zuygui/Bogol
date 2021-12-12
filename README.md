@@ -8,6 +8,8 @@
 
 <p align="center">Use the CMD easy</p>
 
+![Banner](./bogol-banner.gif)
+
 ## Features
 
 * 🔒 Computer management.
