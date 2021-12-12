@@ -8,3 +8,4 @@ edition = "2021"
 [dependencies]
 clap = { git = "https://github.com/clap-rs/clap", features = ["cargo"] }
 billboard = "^0.1"
+sysinfo = "^0.21"
